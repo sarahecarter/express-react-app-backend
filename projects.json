@@ -1,12 +1,14 @@
 [
     {
-      "name": "project1",
+      "name": "Trivia Game App",
+      "description": "A two player trivia game.",
       "live": "https://seir-penguin-project-1-beta.vercel.app/",
       "git": "https://github.com/sarahecarter/seir-penguin-project-1",
       "image": "https://imgur.com/8oQXm1u.png"
     },
     {
-      "name": "project2",
+      "name": "Knifty",
+      "description": "A knitting pattern saving app",
       "live": "https://sc-penguin-p2.herokuapp.com/",
       "git": "https://github.com/sarahecarter/seir-penguin-project-2",
       "image": "https://imgur.com/wyw4DkN.png"
